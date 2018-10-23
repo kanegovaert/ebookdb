@@ -1,0 +1,10 @@
+**** DESIGN ****
+1. Ebook overview
+2. Search bar (at top)
+3. Big geen + button at bottom left fixed for submitting
+
+
+**** BACK-END ****
+1. Display function
+2. Search function
+3. Submit function
